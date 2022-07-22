@@ -1,7 +1,8 @@
 import React from 'react'
 import { getAuth, signOut } from "firebase/auth";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Slidebar from './Sidebar';
+import Navbar from './NavBar';
 
 const Dashboard = (props) => {
 
@@ -21,20 +22,11 @@ const Dashboard = (props) => {
 
   return (
     <>
-        <h1>This is dashboard</h1>
+      <div className="container-fluid page-body-wrapper">
+        <Navbar name={props.name}/>
         <Slidebar />
-        <div>
-      <div>
-
-        <button onClick={clickLogout}>Logout</button>
       </div>
 
-      <br />
-      <br />
-      <br />
-
-      <h2>{props.name ? `Welcome - ${props.name}` : "Login please"}</h2>
-    </div>
     </>
   )
 }
