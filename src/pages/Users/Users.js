@@ -168,7 +168,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -190,7 +190,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -214,7 +214,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -238,7 +238,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -262,7 +262,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -286,7 +286,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -310,7 +310,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -334,7 +334,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -358,7 +358,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
@@ -382,7 +382,7 @@ const User = (props) => {
                   <td>9029124666</td>
                   <td>
                     {/* <Link> */}
-                      <button className='btn btn-edit'>Edit</button>
+                      
                     {/* </Link> */}
 
                     <button  className='btn btn-delete'>
